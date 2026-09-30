@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">MiniShopManager</string>
+    <string name="welcome_message">Bienvenue GTIC L3</string>
+    <string name="btn_catalog">Voir le Catalogue</string>
+    <string name="btn_next">Suivant</string>
+    <string name="welcome_profile">Bienvenue sur l\'écran Profil !</string>
+
+    <!-- TP2 : Liste des produits du MiniShopManager -->
+    <string-array name="products">
+        <item>Téléphone</item>
+        <item>Casque Bluetooth</item>
+        <item>Montre connectée</item>
+        <item>Chargeur USB</item>
+        <item>Accessoires</item>
+        <item>Cosmétiques</item>
+    </string-array>
 </resources>
